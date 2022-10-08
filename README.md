@@ -3,7 +3,7 @@
 ## Brand Kit
 [Download](https://github.com/rocky-linux/brand-assets/archive/refs/heads/main.zip)
 
-Please refer to the included Brand & Trademark Usage Guide to ensure that you follow our brand and trademark policies. If you have questions, concerns, or comments, please send an email to design@rockylinux.org.
+Please refer to the included Brand & Trademark Usage Guide to ensure that you follow our brand and trademark policies. If you have questions, concerns, or comments, please send an email to legal@resf.org.
 
 ## Trademark Usage Policy
 This is a statement of Rocky Enterprise Software Foundation's (RESF) trademarks and its policy and guidelines relating to use of trademarks owned by RESF and used by projects under RESF.
@@ -78,7 +78,7 @@ Certain marks of RESF have been created to enable you to communicate compatibili
 `Incorrect: <non-trademarked industry term> Day brought to you by <RESF mark>`
 
 ### Questions, Comments, Concerns
-We look to our community to help us retain the value of RESF's trade and service marks. If you have questions with respect to these guidelines or to report concerns regarding the use or misuse of a trademark of RESF, or to obtain written permission for a proposed use of RESF trademarks, contact: design@rockylinux.org.
+We look to our community to help us retain the value of RESF's trade and service marks. If you have questions with respect to these guidelines or to report concerns regarding the use or misuse of a trademark of RESF, or to obtain written permission for a proposed use of RESF trademarks, contact: legal@resf.org.
 
 ### Disclaimer
 RESF does not make any express or implied warranties, including but not limited to the warranties of non-infringement of any third party intellectual property rights. RESF does not warrant that any pending trademark applications for trademarks of RESF will result in any granted trademark protection. RESF shall not be liable for any claims relating to user's activities falling within the scope of the permission and user hereby agrees to indemnify, defend and hold RESF and its contributors harmless against any such claim.
